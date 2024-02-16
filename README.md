@@ -27,6 +27,6 @@ Upon starting the program, you will be presented with a menu. In this menu, you 
 1. List Books: Lists the available books.
 2. Add Book: Adds a new book.
 3. Remove Book: Removes a book.
-4. Exit: Quits the program.
+q. Quit: Quits the program.
 
 Follow the instructions after selecting any option.
